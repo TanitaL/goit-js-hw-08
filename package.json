@@ -1,9 +1,8 @@
 {
-  "name": "homework-8",
-  "source": "src/index.html",
+  "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/TanitaL/goit-js-hw-08.git",
+  "homepage": "https://tanital.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
